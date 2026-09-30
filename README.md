@@ -20,9 +20,12 @@ Repositório dedicado ao registro diário de códigos, exercícios práticos e p
 ```text
 PROJETOS-PY/
 ├── README.md
-└── semana-01/
-    └── dia-01/
-        └── diagnostico_sistema.py
+└── Semana-01/
+    ├── Dia-01-ambientação-e-pensamento-computacional/
+    │   ├── diagnostico_sistema.py
+    │   └── log_auditoria.py
+    └── Dia-02-variaveis-e-tipos-primitivos/
+        └── simulador_vendas.py
 ```
 
 ---
@@ -41,8 +44,8 @@ PROJETOS-PY/
 Para executar os scripts desenvolvidos em cada etapa, navegue pelo terminal até o diretório diário desejado e execute o arquivo correspondente:
 
 ```bash
-# Acessar o diretório do dia
-cd semana-01/dia-01
+# Acessar o diretório do dia desejado (exemplo)
+cd "Semana-01/Dia-01-ambientação-e-pensamento-computacional"
 
 # Executar o script Python
 python diagnostico_sistema.py

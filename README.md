@@ -25,6 +25,7 @@ PROJETOS-PY/
     │   ├── diagnostico_sistema.py
     │   └── log_auditoria.py
     └── Dia-02-variaveis-e-tipos-primitivos/
+        ├── calculadora_treino.py
         └── simulador_vendas.py
 ```
 

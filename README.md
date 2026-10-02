@@ -24,9 +24,11 @@ PROJETOS-PY/
     ├── Dia-01-ambientação-e-pensamento-computacional/
     │   ├── diagnostico_sistema.py
     │   └── log_auditoria.py
-    └── Dia-02-variaveis-e-tipos-primitivos/
-        ├── calculadora_treino.py
-        └── simulador_vendas.py
+    ├── Dia-02-variaveis-e-tipos-primitivos/
+    │   ├── calculadora_treino.py
+    │   └── simulador_vendas.py
+    └── Dia-03-Estruturas-de-Dados-Básicas/
+        └── gerenciador_estoque.py
 ```
 
 ---

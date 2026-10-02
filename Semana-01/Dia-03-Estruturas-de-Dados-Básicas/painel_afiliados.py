@@ -2,7 +2,7 @@
 
 # Cabeçalho Painel Afiliados
 print("=======================================")
-print("PAINEL DE AFLIADOS - BLACK WOLF".center(40))
+print("PAINEL DE AFILIADOS - BLACK WOLF".center(40))
 print("=======================================")
 
 # Lógica do sistema

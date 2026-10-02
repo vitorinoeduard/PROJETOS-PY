@@ -28,7 +28,8 @@ PROJETOS-PY/
     │   ├── calculadora_treino.py
     │   └── simulador_vendas.py
     └── Dia-03-Estruturas-de-Dados-Básicas/
-        └── gerenciador_estoque.py
+        ├── gerenciador_estoque.py
+        └── painel_afiliados.py
 ```
 
 ---

@@ -31,7 +31,8 @@ PROJETOS-PY/
     │   ├── gerenciador_estoque.py
     │   └── painel_afiliados.py
     └── Dia-04-estruturas-condicionais/
-        └── caixa_inteligente.py
+        ├── caixa_inteligente.py
+        └── computador_de_bordo.py
 ```
 
 ---

@@ -30,9 +30,11 @@ PROJETOS-PY/
     ├── Dia-03-Estruturas-de-Dados-Básicas/
     │   ├── gerenciador_estoque.py
     │   └── painel_afiliados.py
-    └── Dia-04-estruturas-condicionais/
-        ├── caixa_inteligente.py
-        └── computador_de_bordo.py
+    ├── Dia-04-estruturas-condicionais/
+    │   ├── caixa_inteligente.py
+    │   └── computador_de_bordo.py
+    └── Dia-05-Laços-de-Repetição/
+        └── varredura_estoque.py
 ```
 
 ---

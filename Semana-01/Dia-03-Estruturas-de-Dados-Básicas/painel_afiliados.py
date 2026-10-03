@@ -1,9 +1,9 @@
 """ Sistema de Painel de Afiliados do grupo Black Wolf, usando estruturas de dados básicas como tuplas, dicionários e conjuntos. versão 1.0 - desenvolvido por: Eduardo Vitorino - 01/10/2026"""
 
 # Cabeçalho Painel Afiliados
-print("=======================================")
-print("PAINEL DE AFILIADOS - BLACK WOLF".center(40))
-print("=======================================")
+print("=================================================================================================================")
+print("PAINEL DE AFILIADOS - BLACK WOLF".center(100))
+print("=================================================================================================================")
 
 # Lógica do sistema
 plataformas_parceira = ("Amazon", "mercado livre")
@@ -30,4 +30,4 @@ print("Cupom Aplicado:", cupom_reserva)
 print("\n------RELATÓRIO DE TRÁFEGO------")
 print("Histórico de Cliques:", cliques_por_nicho)
 print("Nichos Únicos com engajamento:", nichos_unicos)
-print("=======================================")
+print("\n=================================================================================================================")

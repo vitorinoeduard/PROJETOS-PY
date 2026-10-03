@@ -27,9 +27,11 @@ PROJETOS-PY/
     ├── Dia-02-variaveis-e-tipos-primitivos/
     │   ├── calculadora_treino.py
     │   └── simulador_vendas.py
-    └── Dia-03-Estruturas-de-Dados-Básicas/
-        ├── gerenciador_estoque.py
-        └── painel_afiliados.py
+    ├── Dia-03-Estruturas-de-Dados-Básicas/
+    │   ├── gerenciador_estoque.py
+    │   └── painel_afiliados.py
+    └── Dia-04-estruturas-condicionais/
+        └── caixa_inteligente.py
 ```
 
 ---

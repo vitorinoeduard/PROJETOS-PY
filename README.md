@@ -1,4 +1,4 @@
-# 🐍 Estudos e Projetos em Python
+# 🐍 Estudos e Projetos em Pyth
 
 Repositório dedicado ao registro diário de códigos, exercícios práticos e projetos desenvolvidos ao longo de uma jornada intensiva de 30 dias em Desenvolvimento Back-end com Python, aplicando as convenções da PEP 8 e controle de versão com Git.
 

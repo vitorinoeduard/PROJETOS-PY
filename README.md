@@ -33,8 +33,10 @@ PROJETOS-PY/
     ├── Dia-04-estruturas-condicionais/
     │   ├── caixa_inteligente.py
     │   └── computador_de_bordo.py
-    └── Dia-05-Laços-de-Repetição/
-        └── varredura_estoque.py
+    ├── Dia-05-Laços-de-Repetição/
+    │   └── varredura_estoque.py
+    └── Dia-06-funcoes-e-modularizacao/
+        └── funcoes_loja.py
 ```
 
 ---
